@@ -16,6 +16,8 @@
     * Change the font size with keyboard shortcuts.
   * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
     * Integrates ESLint JS
+  * [npm Intellisense](https://marketplace.visualstudio.com/items/?itemName=christian-kohler.npm-intellisense)
+    * Visual Studio Code plugin that autocompletes npm modules in import statements
   * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
     * Automatically format javascript, JSON, CSS, Sass
   * [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
@@ -57,6 +59,7 @@ catppuccin.catppuccin-vsc
 catppuccin.catppuccin-vsc-icons
 fosshaas.fontsize-shortcuts
 dbaeumer.vscode-eslint
+christian-kohler.npm-intellisense
 esbenp.prettier-vscode
 quicktype.quicktype
 orta.vscode-jest
